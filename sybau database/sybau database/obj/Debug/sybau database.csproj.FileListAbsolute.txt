@@ -1,0 +1,11 @@
+D:\C#\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.exe.config
+D:\C#\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.exe
+D:\C#\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.pdb
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.AssemblyReference.cache
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau_database.Dashboard.resources
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau_database.Properties.Resources.resources
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.GenerateResource.cache
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.CoreCompileInputs.cache
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.pdb
+D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe.config
