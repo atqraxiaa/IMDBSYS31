@@ -1,0 +1,26 @@
+# Ignore Visual Studio cache
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Debug/Release folders
+Debug/
+Release/
+x64/
+x86/
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+
+# Other VS settings
+*.vscode/

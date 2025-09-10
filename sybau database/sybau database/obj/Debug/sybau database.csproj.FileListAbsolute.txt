@@ -9,3 +9,14 @@ D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.Co
 D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe
 D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.pdb
 D:\C#\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe.config
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.exe.config
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.exe
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\bin\Debug\sybau database.pdb
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.AssemblyReference.cache
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe.config
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau_database.Dashboard.resources
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau_database.Properties.Resources.resources
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.GenerateResource.cache
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.csproj.CoreCompileInputs.cache
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.exe
+C:\Users\elais\source\repos\atqraxiaa\IMDBSYS31\sybau database\sybau database\obj\Debug\sybau database.pdb
